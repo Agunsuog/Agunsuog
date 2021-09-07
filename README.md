@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Agunsuog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Termux
 
-<!---
-Agunsuog/Agunsuog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+apt -y update
+apt -y upgrade
+apt -y install git
+git clone https://github.com/H0N3S/SPAM-V2.0.git
+cd SPAM-V2.0
+bash install.sh
+------------_---------
+Linux etc.
+
+sudo su
+apt update
+apt -y install git
+git clone https://github.com/H0N3S/SPAM-V2.0.git
+cd SPAM-V2.0
+bash install.sh
